@@ -1,9 +1,7 @@
-# Hi! 
-# I am Tom 
+# Hi!, I am Tom 
 
 <p align="left">
 **Data Engineer | ETL DataStage Developer | Oracle PL/SQL | Data Analyst | Unix Shell Scripting**
-
 </p>
 
 I specialize in building efficient and scalable ETL processes, primarily working with **IBM DataStage**, **Oracle PL/SQL**, and **Unix Shell Scripting**. My focus is on transforming raw data into actionable insights for businesses through strong data pipeline processes.
