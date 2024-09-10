@@ -10,7 +10,7 @@ I specialize in building efficient and scalable ETL processes, primarily working
   - **Description**: Processed over 729,322 taxi records using Airflow, performing data cleaning, transformation, and visualization using Plotly and Dash.
 
 ### Skills:
-- **ETL Tools**: IBM DataStage, Informatica
+- **ETL Tools**: IBM DataStage
 - **Databases**: Oracle, PostgreSQL, SQL
 - **Languages**: Python, PL/SQL, Unix Shell Scripting
 - **Tools**: Docker, Git, Apache Airflow
