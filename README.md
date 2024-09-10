@@ -19,6 +19,6 @@ I specialize in building efficient and scalable ETL processes, primarily working
 - **Languages**: Python, PL/SQL, Unix Shell Scripting
 - **Tools**: Docker, Git, Apache Airflow
 
-### Contact Me:
+### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teerawus) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Tom-Teerawut)
