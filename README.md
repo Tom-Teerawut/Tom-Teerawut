@@ -4,6 +4,7 @@
 
 I am passionate about building efficient and scalable ETL processes, focusing on modern tools like **Python**, **Apache Airflow**, **Docker**, and **PostgreSQL**. With a strong foundation in traditional ETL technologies like **IBM DataStage** and **Oracle PL/SQL**, I am continuously expanding my expertise in cutting-edge technologies to streamline data workflows. I take pride in being an active learner, constantly improving my skills to stay ahead in the ever-evolving data engineering landscape.
 
+I am certified in **Azure Data Engineer (DP-203)®**, **Azure Fundamentals (AZ-900)®**, and **Azure Data Fundamentals (DP-900)®**, reflecting my ability to work effectively with cloud technologies and large-scale data infrastructures.
 
 ### Key Projects:
 - **NYC Taxi Data ETL and Dashboard**:
